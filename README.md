@@ -1,4 +1,4 @@
-# JAVASCRIPT
+# 0x00. ES6 Basics
 
 ## Resources
 **Read or watch:**
